@@ -1,0 +1,63 @@
+nav{
+    font-size: 18px;
+    line-height: 40px;
+}
+.main{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+.card{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 50px;
+}
+.card image{
+    max-width: 100%;
+}
+#name{
+    font-family: Helvitica;
+    font-size: 30px;
+    text-emphasis: under-line;
+    color: red;
+    opacity: .7;
+ }
+.interests{
+    color: red;
+    position: relative;
+    left: 1000px;
+    top: 150px;
+}
+.list1{
+    position: relative;
+    left: 1000px;
+    top: 150px;
+}
+
+.Education{
+    color: red;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.list2{
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.work1{
+    color: red;
+}
+.contact-section{
+    width: 100%;
+    display: flex;
+}
+.contact-info{
+    font-size: 20px;
+    line-height: 60px;
+}
+.contact-info i{
+    font-size: 20px;
+    margin-right: 20px;
+}
