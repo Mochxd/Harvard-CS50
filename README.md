@@ -62,6 +62,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ---
 
-Your journey into the world of computer science begins here. Happy coding!
+Your journey into the world of computer science begins here. Happy coding :)
  
 
