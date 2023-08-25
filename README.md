@@ -26,7 +26,6 @@ The CS50 course covers a diverse set of topics, including but not limited to:
 - **Databases (SQL)**
 - **Python Programming**
 - **Security and Cryptography**
-- **Artificial Intelligence**
 - **Final Project**
 
 ## Getting Started
